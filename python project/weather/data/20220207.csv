@@ -1,0 +1,32 @@
+,Time,Temperature,Weather,Wind,Humidity
+0,12:00 am,26,Clear.,19 km/h,27%
+1,12:30 am,26,Pleasantly warm.,22 km/h,27%
+2,1:30 am,26,Pleasantly warm.,24 km/h,28%
+3,2:30 am,26,Pleasantly warm.,22 km/h,29%
+4,3:00 am,25,Clear.,20 km/h,31%
+5,3:30 am,25,Pleasantly warm.,19 km/h,31%
+6,4:30 am,25,Pleasantly warm.,20 km/h,32%
+7,5:30 am,24,Mild.,22 km/h,34%
+8,6:00 am,24,Passing clouds.,19 km/h,35%
+9,6:30 am,25,Mild.,19 km/h,35%
+10,7:30 am,25,Pleasantly warm.,26 km/h,34%
+11,8:30 am,26,Pleasantly warm.,32 km/h,33%
+12,9:00 am,27,Passing clouds.,30 km/h,33%
+13,9:30 am,28,Pleasantly warm.,30 km/h,31%
+14,10:30 am,30,Pleasantly warm.,32 km/h,27%
+15,11:30 am,32,Hot.,35 km/h,25%
+16,12:00 pm,31,Passing clouds.,32 km/h,24%
+17,12:30 pm,32,Hot.,30 km/h,23%
+18,1:30 pm,33,Hot.,26 km/h,22%
+19,2:30 pm,33,Hot.,17 km/h,22%
+20,3:00 pm,33,Partly sunny.,20 km/h,23%
+21,3:30 pm,33,Hot.,24 km/h,21%
+22,4:30 pm,34,Hot.,32 km/h,20%
+23,5:30 pm,34,Extremely hot.,26 km/h,18%
+24,6:00 pm,34,Partly sunny.,24 km/h,20%
+25,6:30 pm,33,Hot.,28 km/h,19%
+26,7:30 pm,32,Hot.,28 km/h,20%
+27,8:30 pm,30,Pleasantly warm.,17 km/h,23%
+28,9:00 pm,30,Passing clouds.,19 km/h,24%
+29,9:30 pm,29,Pleasantly warm.,19 km/h,24%
+30,10:30 pm,29,Pleasantly warm.,24 km/h,25%

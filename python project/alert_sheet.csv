@@ -1,0 +1,32 @@
+Date,Covid_alert,Weather_alert,Exchange_rate _alert,Notes
+2022-02-01,Up,Cool,Down: 0.0026,
+2022-02-02,Up,Cool,Down: 0.0025,"
+"
+2022-02-03,Up,Cool,Up: 0.0130,"happy
+"
+2022-02-04,Down,Cool,Unchange,
+2022-02-05,Down,Cool,Unchange,"Very Happy
+"
+2022-02-06,Down,Hot,Down: 0.0083,
+2022-02-07,Down,Hot,Down: 0.0014,
+2022-02-08,Down,Hot,Down: 0.0076,
+2022-02-09,Up,Cool,Down: 0.0076,
+2022-02-10,Up,Cool,Up: 0.0085,
+2022-02-11,Down,Cool,Unchange,
+2022-02-12,Down,Cool,Unchange,
+2022-02-13,Down,Hot,Up: 0.0080,
+2022-02-14,Up,Hot,Down: 0.0031,
+2022-02-15,Up,Hot,Down: 0.0041,
+2022-02-16,Down,Cool,Down: 0.0036,
+2022-02-17,Up,Cool,Up: 0.0024,
+2022-02-18,Down,Cool,Unchange,
+2022-02-19,Down,Cool,Unchange,
+2022-02-20,Down,Cool,Down: 0.0050,
+2022-02-21,Down,Cool,Down: 0.0015,
+2022-02-22,Down,Cool,Down: 0.0026,
+2022-02-23,Up,Cool,Up: 0.0209,
+2022-02-24,Up,Hot,,
+2022-02-25,Up,Cool,,
+2022-02-26,No record,Cool,,
+2022-02-27,No record,Cool,,
+2022-02-28,No record,Hot,,

@@ -1,0 +1,32 @@
+,Time,Temperature,Weather,Wind,Humidity
+0,12:00 am,18,Passing clouds.,11 km/h,73%
+1,12:30 am,17,Mild.,11 km/h,74%
+2,1:30 am,17,Cool.,13 km/h,76%
+3,2:30 am,16,Cool.,11 km/h,77%
+4,3:00 am,16,Passing clouds.,9 km/h,77%
+5,3:30 am,16,Cool.,11 km/h,78%
+6,4:30 am,16,Cool.,9 km/h,77%
+7,5:30 am,16,Cool.,7 km/h,77%
+8,6:00 am,16,Passing clouds.,7 km/h,77%
+9,6:30 am,16,Cool.,7 km/h,74%
+10,7:30 am,16,Cool.,4 km/h,80%
+11,8:30 am,18,Mild.,11 km/h,64%
+12,9:00 am,19,Passing clouds.,11 km/h,58%
+13,9:30 am,20,Mild.,20 km/h,54%
+14,10:30 am,20,Mild.,17 km/h,56%
+15,11:30 am,21,Mild.,24 km/h,55%
+16,12:00 pm,21,Passing clouds.,28 km/h,57%
+17,12:30 pm,22,Mild.,30 km/h,57%
+18,1:30 pm,22,Mild.,33 km/h,51%
+19,2:30 pm,23,Mild.,37 km/h,47%
+20,3:30 pm,23,Mild.,35 km/h,49%
+21,4:30 pm,23,Mild.,35 km/h,51%
+22,5:30 pm,24,Mild.,26 km/h,51%
+23,6:00 pm,24,Passing clouds.,24 km/h,43%
+24,6:30 pm,23,Mild.,26 km/h,45%
+25,7:30 pm,21,Mild.,24 km/h,51%
+26,8:30 pm,19,Mild.,19 km/h,54%
+27,9:00 pm,19,Passing clouds.,19 km/h,56%
+28,9:30 pm,18,Mild.,17 km/h,59%
+29,10:30 pm,17,Mild.,17 km/h,65%
+30,11:30 pm,17,Mild.,15 km/h,68%
